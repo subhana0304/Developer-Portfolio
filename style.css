@@ -172,3 +172,24 @@ main{
     margin-top: 50px;
     text-align: center;
 }
+/* Contact style */
+.contact{
+    display: flex;
+    gap: 100px;
+    background: #FFF8F3;
+    padding: 130px 200px;
+}
+.contact .section-title{
+    text-align: left;
+}
+.contact input[type="text"],input[type="email"], textarea{
+    border: none;
+    margin-bottom: 24px;
+    padding: 18px 30px;
+    width: 100%;
+}
+.contact a img{
+    
+    margin: 20px 5px;
+}
+
