@@ -178,6 +178,7 @@ main{
     gap: 100px;
     background: #FFF8F3;
     padding: 130px 200px;
+    margin-top: 130px;
 }
 .contact .section-title{
     text-align: left;
